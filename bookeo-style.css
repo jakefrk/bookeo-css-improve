@@ -1,0 +1,268 @@
+.bookeocss #bookeo_position {
+    height: 3750px !important;
+    overflow-y: auto
+}
+.cb_summaryArea * {
+    font-size: 15px !important;
+    font-weight: bold;
+}
+.bookeocss .contentPaneTitle {
+    padding: 0px !important
+}
+#pagecustomer {
+    width: 100%
+}
+.bookeocss .roundedDivWithTitle {
+    border: 0px !important;
+}
+.bookeocss .roundedDivWithTitle .t {
+    border-radius: 0px !important;
+    background: none;
+    background-color: #42474a;
+    !important
+}
+.bookeocss * {
+    font-size: 14px !important
+}
+
+.roundedDivDarker {
+    border-radius: 0px !important;
+    text-align: center
+}
+.roundedDivDarker .d {
+    background-image: none !important;
+    margin-left: 10px
+}
+
+#bookeoStartMobile {
+    width: 350px !important;
+    height: 200px !important;
+    background-color: green !important;
+}
+div#tab_desc_1 p {
+    font-size: 16px;
+}
+form {
+    position: relative;
+}
+form > table > tbody > tr > td:nth-child(2) {
+    width: 100% !important;
+    position: relative;
+    top: 0;
+}
+
+
+
+
+div.cb_fixedSlotExtended {
+    height: 60px;
+}
+.cb_rtypeDesc_mainImage {
+    height: 200px
+}
+
+.calendar table {
+    width: 100% !important
+}
+
+
+#slotsdiv .cb_fixedSlotExtended {
+    background-color: #fff !important;
+    border: none !important;
+    background-image: none;
+    padding: none !important
+}
+[unselectable="on"] {
+    width: 2em;
+    text-align: center !important;
+    margin: 0 auto;
+    height: 2em;
+    background: #b1b1b1;
+    border-radius: 37%;
+    color: #fff !important;
+    line-height: 2;
+    font-size: 1.2em !important;
+}
+#_peopleContainer_c > table {
+    width: 100%;
+}
+#_peopleContainer_c > table tr {
+    width: 30%;
+    float: left;
+    padding-left: 12px;
+}
+
+#cbTimeFixed_calendarContainer {
+    border: solid 1px #bfbfbf !important;
+    width: 90%;
+    margin: 0 5%;
+}
+.calendar thead .name {
+    border-bottom: none !important;
+    pointer-events: none
+}
+h1.expressCustomerDetailsTitle {
+    display: none
+}
+h1.paymentTitle {
+    display: none
+}
+._customerFields_FC legend {
+    display: none
+}
+#_paymentDetails fieldset {
+    border: none !important
+}
+#_paymentDetails legend {
+    display: none
+}
+#_paymentDetails thead {
+    display: none
+}
+._paynow legend {
+    display: none
+}
+#acceptDisclaimer {
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 15px;
+    -webkit-appearance: button;
+    border: double 2px #015019;
+    background-color: #e6e6e6;
+    color: #FFF;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 25px;
+    height: 25px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+#acceptDisclaimer:hover {
+    background-color: #00922c;
+}
+#acceptDisclaimer:checked {
+    background-color: #1c7d39;
+}
+#acceptDisclaimer + span {
+    float: left;
+    color: #FFF !important;
+    margin-top: 4px;
+    background: #1c7d39;
+    text-transform: uppercase;
+    padding: 5px 20px 5px 22px;
+    font-weight: bold;
+    border-radius: 7px;
+}
+.daysrow {
+    height: 35px !important;
+}
+.calendar td {
+    text-align: center !important;
+    ;
+}
+#cb_main .roundedDivDarker:first-child {
+    background: #f1eded !important;
+    padding: 0px 28px;
+    margin: 0px 0 4px 0;
+}
+.roundedDivDarker:first-child .cb_sectionSummaryText {
+    font-size: 20px !important;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase
+}
+.roundedDivDarker:first-child .cb_sectionSummaryText strong {
+    font-size: 20px !important;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase
+}
+.roundedDivDarker {
+    width: 95%;
+    margin: 0 auto;
+}
+#finalPromotionPrompt {
+    display: none;
+}
+.cb_reviewintro {
+    background: #f4a31e;
+    line-height: 0.92;
+    padding: 10px 0;
+    text-transform: uppercase;
+    color: white;
+    font-size: 1.2em !important;
+    letter-spacing: 0px;
+}
+
+.cb_signInBox {
+    float: right;
+}
+#_paymentMethodCreditCard {
+    background: #fff1db;
+}
+#_paymentDetails + fieldset {
+    background: #fff1db;
+}
+#ccdetails legend {
+    display: none;
+}
+form {
+    padding: 15px;
+}
+.cb_summaryArea {
+    margin-left: 0px;
+}
+#_peopleContainer_c {
+    padding-bottom: 5px;
+    background: #f5f5f5;
+}
+select {
+    padding: 4px;
+}
+input:not([type]),
+input[type="text"] {
+    padding: 5px;
+}
+
+
+
+
+#_r_wxt69prk {
+    display: none !important;
+}
+
+#cb_main > .cb_normalText:nth-child(1) {
+    /* hides the Language menu */
+    display: none
+}
+
+#cbTimeFixed_slotsContainerVert > .t {
+    /* hide bar above BOOK button */  
+    display: none
+}
+
+#cbTimeFixed_calendarContainer > div.b.d {
+    display: none
+}
+.cbd_legend {
+    /*hides the 3 keys */
+    display: none
+}
+
+#_peopleContainer > div.t.d {
+    display: none;
+    /* hide bar */
+}
+#cbTimeFixed_calendarContainer > div.t.d {
+    display: none;
+    /* hide bar */
+}
+
+.cb_pageintro {
+    display: none;
+}
+.cb_tip {
+    display: none;
+}
+
+.cbTime_productTitle {
+    display:none}
