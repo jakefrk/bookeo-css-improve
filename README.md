@@ -6,3 +6,6 @@ Bookeo has a good enough back-end to do what it's built to do for your business 
 Paste CSS into Bookeo > SETTINGS > Colors and Styles > Custom CSS (advanced) box.
 
 <img src="http://jakefr.me/static/img/bookeo.jpg" width="800"/>
+
+
+<a href="http://jakefr.me/">jakefr.me</a>
